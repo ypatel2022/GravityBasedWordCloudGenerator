@@ -114,5 +114,6 @@ public class GameManager : MonoBehaviour
                 Destroy(cloudWord.gameObject);
             }
         }
+        cloudWords.Clear();
     }
 }

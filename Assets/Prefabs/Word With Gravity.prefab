@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxGravDist: 1000
-  maxGravity: 12
+  maxGravity: 24
   WaitToFreezeSeconds: 12
 --- !u!61 &7289144494256249462
 BoxCollider2D:
