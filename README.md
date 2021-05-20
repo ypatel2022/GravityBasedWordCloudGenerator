@@ -7,3 +7,4 @@ To use this generator, download the build. Currently, the only build available i
 <img src="Demo/Demo.gif" width="800" height="450"/>
 
 To customize or modify the project, download the Assets, Packages and ProjectSettings folders. Next, make a Unity2D Version 2019.4.13 project and drag the three folders over to replace the default ones. Now, you can launch the project and customize away!
+ 
